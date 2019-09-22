@@ -66,8 +66,7 @@ enchanted with at least _Mending_ in order to AFK without any limits.
 7. Profit!
 
 As long as the radical in the player UI points to the note-block and a fishing-rod is selected, the script will keep
-sending right-clicks to Minecraft every 0.1 seconds enabling AFK. Minecraft can be minimised while the script is running
-and I recommend to disable shaders (if you are using Optifine or clients) in order to reduce power consumption and
-reduce GPU utilisation.
+sending right-clicks to Minecraft every 0.1 seconds starting AFK farming. Minecraft can be minimised while the script is running
+and I recommend to disable shaders (if you are using Optifine or other graphical clients) in order to reduce power consumption and reduce GPU utilisation.
 
 To stop the script, simply interrupt the script with `Ctrl-C`.
